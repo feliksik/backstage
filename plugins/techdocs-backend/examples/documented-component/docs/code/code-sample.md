@@ -13,6 +13,7 @@ const serviceEntityPage = (
           <EntityAboutCard variant="gridItem" />
         </Grid>
       </Grid>
+test
     </EntityLayout.Route>
     <EntityLayout.Route path="/docs" title="Docs">
       <EntityTechdocsContent />
