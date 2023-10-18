@@ -1,5 +1,18 @@
 # @backstage/plugin-catalog-react
 
+## 1.8.6-next.0
+
+### Patch Changes
+
+- 6c2b872153: Add official support for React 18.
+- 71c97e7d73: The `spec.type` field in entities will now always be rendered as a string.
+- Updated dependencies
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-permission-react@0.4.17-next.0
+  - @backstage/version-bridge@1.0.7-next.0
+  - @backstage/theme@0.4.4-next.0
+
 ## 1.8.5
 
 ### Patch Changes

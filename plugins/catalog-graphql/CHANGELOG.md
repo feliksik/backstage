@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-graphql
 
+## 0.4.1-next.0
+
+### Patch Changes
+
+- 6c2b872153: Add official support for React 18.
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 0.4.0
 
 ### Minor Changes

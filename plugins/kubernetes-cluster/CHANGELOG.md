@@ -1,5 +1,19 @@
 # @backstage/plugin-kubernetes-cluster
 
+## 0.0.2-next.0
+
+### Patch Changes
+
+- 6c2b872153: Add official support for React 18.
+- Updated dependencies
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-kubernetes-react@0.1.1-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/theme@0.4.4-next.0
+  - @backstage/plugin-kubernetes-common@0.7.1-next.0
+  - @backstage/config@1.1.1
+
 ## 0.0.1
 
 ### Patch Changes

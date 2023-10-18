@@ -1,5 +1,20 @@
 # example-backend
 
+## 0.2.89-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - example-app@0.2.89-next.0
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.1.4-next.0
+  - @backstage/plugin-scaffolder-backend@1.18.1-next.0
+  - @backstage/plugin-graphql-backend@0.2.1-next.0
+  - @backstage/config@1.1.1
+  - @backstage/plugin-auth-backend@0.19.4-next.0
+  - @backstage/plugin-scaffolder-backend-module-confluence-to-markdown@0.2.8-next.0
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.24-next.0
+  - @backstage/plugin-kubernetes-backend@0.13.1-next.0
+
 ## 0.2.88
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @backstage/plugin-auth-backend
 
+## 0.19.4-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend-module-microsoft-provider@0.1.1-next.0
+  - @backstage/config@1.1.1
+  - @backstage/plugin-auth-backend-module-github-provider@0.1.3
+  - @backstage/plugin-auth-backend-module-gitlab-provider@0.1.3
+  - @backstage/plugin-auth-backend-module-google-provider@0.1.3
+  - @backstage/plugin-auth-backend-module-oauth2-provider@0.1.3
+
 ## 0.19.3
 
 ### Patch Changes

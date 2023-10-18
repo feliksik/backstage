@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-common
 
+## 1.4.3-next.0
+
+### Patch Changes
+
+- 2e0cef42ab: Add missing required property `type` in `Template.v1beta3.schema.json` schema
+
 ## 1.4.2
 
 ### Patch Changes

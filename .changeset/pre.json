@@ -250,7 +250,35 @@
     "@backstage/plugin-user-settings-backend": "0.2.4",
     "@backstage/plugin-vault": "0.1.20",
     "@backstage/plugin-vault-backend": "0.3.11",
-    "@backstage/plugin-xcmetrics": "0.2.44"
+    "@backstage/plugin-xcmetrics": "0.2.44",
+    "@backstage/core-compat-api": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "eighty-chairs-camp",
+    "fair-parrots-lick",
+    "fifty-taxis-allow",
+    "healthy-shirts-fold",
+    "hungry-paws-dress",
+    "hungry-radios-play",
+    "lazy-hotels-wait",
+    "modern-ducks-battle",
+    "new-beers-drive",
+    "ninety-numbers-study",
+    "popular-bikes-do",
+    "pretty-swans-worry",
+    "quick-pumpkins-shave",
+    "rude-tomatoes-itch",
+    "shaggy-beers-collect",
+    "sharp-falcons-clean",
+    "shiny-geese-watch",
+    "stale-rice-count",
+    "sweet-buckets-fry",
+    "tender-maps-type",
+    "thick-dolphins-boil",
+    "three-moles-mix",
+    "tricky-cups-hammer",
+    "violet-lamps-appear",
+    "wet-cows-brake",
+    "wild-geese-occur"
+  ]
 }

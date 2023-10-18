@@ -1,5 +1,11 @@
 # @backstage/plugin-auth-backend-module-microsoft-provider
 
+## 0.1.1-next.0
+
+### Patch Changes
+
+- 2817115d09: Removed `prompt=consent` from start method to fix #20641
+
 ## 0.1.0
 
 ### Minor Changes

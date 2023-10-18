@@ -1,5 +1,25 @@
 # @backstage/plugin-catalog
 
+## 1.14.1-next.0
+
+### Patch Changes
+
+- 71c97e7d73: The `spec.lifecycle' field in entities will now always be rendered as a string.
+- 6c2b872153: Add official support for React 18.
+- bb98953cb9: Create declarative extensions for the `Catalog` plugin; this initial plugin preset contains sidebar item, index page and filter extensions, all distributed via `/alpha` subpath.
+
+  The `EntityPage` will be migrated in a follow-up patch.
+
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.3.0-next.0
+  - @backstage/plugin-scaffolder-common@1.4.3-next.0
+  - @backstage/integration-react@1.1.21-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/plugin-search-react@1.7.2-next.0
+  - @backstage/theme@0.4.4-next.0
+
 ## 1.14.0
 
 ### Minor Changes

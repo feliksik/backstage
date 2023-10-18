@@ -1,5 +1,19 @@
 # @backstage/dev-utils
 
+## 1.0.23-next.0
+
+### Patch Changes
+
+- 38cda52746: Added support for React 18. The new `createRoot` API from `react-dom/client` will now be used if present.
+- Updated dependencies
+  - @backstage/integration-react@1.1.21-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/app-defaults@1.4.5-next.0
+  - @backstage/core-app-api@1.11.1-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/theme@0.4.4-next.0
+
 ## 1.0.22
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # @backstage/plugin-explore
 
+## 0.4.12-next.0
+
+### Patch Changes
+
+- 6c2b872153: Add official support for React 18.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.3.0-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/plugin-explore-react@0.0.33-next.0
+  - @backstage/plugin-search-react@1.7.2-next.0
+  - @backstage/theme@0.4.4-next.0
+
 ## 0.4.11
 
 ### Patch Changes

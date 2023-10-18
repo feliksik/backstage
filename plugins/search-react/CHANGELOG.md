@@ -1,5 +1,19 @@
 # @backstage/plugin-search-react
 
+## 1.7.2-next.0
+
+### Patch Changes
+
+- 6c2b872153: Add official support for React 18.
+- 71c97e7d73: The filter options passed to `SearchResultGroupLayout` are now always explicitly rendered as strings by default.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.3.0-next.0
+  - @backstage/frontend-app-api@0.3.0-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/version-bridge@1.0.7-next.0
+  - @backstage/theme@0.4.4-next.0
+
 ## 1.7.1
 
 ### Patch Changes

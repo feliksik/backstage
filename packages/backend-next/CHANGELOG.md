@@ -1,5 +1,14 @@
 # example-backend-next
 
+## 0.0.17-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.1.4-next.0
+  - @backstage/plugin-scaffolder-backend@1.18.1-next.0
+  - @backstage/plugin-kubernetes-backend@0.13.1-next.0
+
 ## 0.0.16
 
 ### Patch Changes
